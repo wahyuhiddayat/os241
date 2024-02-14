@@ -1,4 +1,4 @@
-# OS241 Operating Systems
+# os241
 
 ## wahyuhiddayat
 

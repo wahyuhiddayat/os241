@@ -24,20 +24,17 @@ It explains basic Git commands that are commonly used in a concise and to-the-po
 
 ## WEEK 02
 
-* [Learn Regular Expressions (Regex) - Crash Course for Beginners](https://youtu.be/ZfQFUJhPqMM?si=Y5ceOLe-EO0y4ddq)  ^`^t
+* [Learn Regular Expressions (Regex) - Crash Course for Beginners](https://youtu.be/ZfQFUJhPqMM?si=Y5ceOLe-EO0y4ddq)
 A comprehensive guide to understanding and using Regular Expressions (Regex).
 
-* [Bash Scripting Tutorial for Beginners](https://youtu.be/tK9Oc6AEnR4?si=gOP2vRBS9S8_jbgY)  ^`^t
+* [Bash Scripting Tutorial for Beginners](https://youtu.be/tK9Oc6AEnR4?si=gOP2vRBS9S8_jbgY)
 This tutorial demystifies Bash scripting, making it accessible for beginners to automate tasks and manage systems efficiently.
 
-* [What is an SSH Key? An Overview of SSH Keys](https://www.ssh.com/academy/ssh-keys)  ^`^t
+* [What is an SSH Key? An Overview of SSH Keys](https://www.ssh.com/academy/ssh-keys)
 An essential read on SSH keys, offering a deep dive into secure shell access and how it enhances security for remote server connections.
 
-* [Public and Private Keys - Signatures & Key Exchanges - Cryptography - Practical TLS](https://youtu.be/_zyKvPvh808?si=zl1u07Xj9Ph_OoAH)  ^`^t
-This video provides an insightful exploration of public and private keys, their role in digital signatures and key exchanges, and their critical importance in cryptography and TLS.
-
-
-
+* [Public and Private Keys - Signatures & Key Exchanges - Cryptography - Practical TLS](https://youtu.be/_zyKvPvh808?si=zl1u07Xj9Ph_OoAH)
+This video provides an insightful exploration of public and private keys and their role in digital signatures and key exchanges.
 
 
 

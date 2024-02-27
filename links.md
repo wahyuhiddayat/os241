@@ -36,5 +36,18 @@ An essential read on SSH keys, offering a deep dive into secure shell access and
 * [Public and Private Keys - Signatures & Key Exchanges - Cryptography - Practical TLS](https://youtu.be/_zyKvPvh808?si=zl1u07Xj9Ph_OoAH)
 This video provides an insightful exploration of public and private keys and their role in digital signatures and key exchanges.
 
+## WEEK 03
 
 
+
+* [C Programming Full Course](https://youtu.be/87SH2Cn0s9A?si=40zksLLmad2U7d8I)
+Embark on a comprehensive journey into C programming with BroCode, my favorite channel for its simplicity and ease of understanding. This full course is perfect for beginners eager to learn programming in a straightforward, engaging manner.
+
+* [Compiling a C Program: Behind the Scenes](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/)
+Dive into the intricacies of how a C program is compiled.
+
+* [Files & File Systems](https://youtu.be/KN8YgJnShPM?si=ax80b_J-sU_sMHhC)
+An engaging video tutorial that unravels the mystery of files and file systems in computing, making complex concepts accessible and understandable for learners at all levels..
+
+* [Understanding File & Directory Permissions](https://youtu.be/4e669hSjaX8?si=99qZ6SH0uVaJi3lG)
+Learn the essentials of file and directory permissions in Unix/Linux systems.

@@ -49,3 +49,14 @@ An engaging video tutorial that unravels the mystery of files and file systems i
 
 * [Understanding File & Directory Permissions](https://youtu.be/4e669hSjaX8?si=99qZ6SH0uVaJi3lG)
 Learn the essentials of file and directory permissions in Unix/Linux systems.
+
+## WEEK 04
+
+* [Big Endian and Little Endian](https://youtu.be/T1C9Kj_78ek?si=zkvovmCLoI6F_Vyn) — 
+This video clarified how data is stored in memory, making it easier to understand different computer architectures.
+
+* [Addressing, Shared Libraries, & Pointers](https://youtu.be/uFj7mKNq1t0?si=UOBihXBf1dGN7g6O) — 
+A recording from the previous SOSI class that greatly clarifies this week's lecture material.
+
+* [You Will Never Ask About Pointers Again](https://youtu.be/2ybLD6_2gKM?si=jKWs3WZ6tpwAhOVo) — 
+This video simplifies pointers, making them easy to understand. Highly recommended for a clear understanding.

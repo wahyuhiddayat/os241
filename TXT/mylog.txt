@@ -16,3 +16,8 @@ ZCZC W03 10 L05 Quiz related including studying
 ZCZC W03 60 L13 Assignment #03
 ZCZC W03 15 L01 SCELE/Discord related
 ZCZC W03 10 L08 OS Chat related Friend
+ZCZC W04 30 L14 Assignment #04
+ZCZC W04 15 L05 Quiz related including studying
+ZCZC W04 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 200 L70 Studying for other courses.
+ZCZC W04 30 L01 SCELE/Discord related

@@ -12,7 +12,6 @@ This video helped me understand and get introduced to operating systems.
 * [ChatGPT](https://chat.openai.com) —
 I can't deny that ChatGPT is a personal assistant that can be incredibly helpful for various issues, such as Git problems, concepts that aren't clear, helping correct faulty code — everything can be done here.
 
-
 * [OS Main Page](https://os.vlsm.org/) —
 Obviously, there are plenty of resources to read up on lecture materials and past exam questions here.
 
@@ -24,7 +23,7 @@ It explains basic Git commands that are commonly used in a concise and to-the-po
 
 ## WEEK 02
 
-* [Learn Regular Expressions (Regex) - Crash Course for Beginners] — (https://youtu.be/ZfQFUJhPqMM?si=Y5ceOLe-EO0y4ddq)
+* [Learn Regular Expressions (Regex) - Crash Course for Beginners](https://youtu.be/ZfQFUJhPqMM?si=Y5ceOLe-EO0y4ddq) —
 A comprehensive guide to understanding and using Regular Expressions (Regex).
 
 * [Bash Scripting Tutorial for Beginners](https://youtu.be/tK9Oc6AEnR4?si=gOP2vRBS9S8_jbgY) — 
@@ -44,10 +43,10 @@ Embark on a comprehensive journey into C programming with BroCode, my favorite c
 * [Compiling a C Program: Behind the Scenes](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/) — 
 Dive into the intricacies of how a C program is compiled.
 
-* [Files & File Systems](https://youtu.be/KN8YgJnShPM?si=ax80b_J-sU_sMHhC)
+* [Files & File Systems](https://youtu.be/KN8YgJnShPM?si=ax80b_J-sU_sMHhC) —
 An engaging video tutorial that unravels the mystery of files and file systems in computing, making complex concepts accessible and understandable for learners at all levels..
 
-* [Understanding File & Directory Permissions](https://youtu.be/4e669hSjaX8?si=99qZ6SH0uVaJi3lG)
+* [Understanding File & Directory Permissions](https://youtu.be/4e669hSjaX8?si=99qZ6SH0uVaJi3lG) —
 Learn the essentials of file and directory permissions in Unix/Linux systems.
 
 ## WEEK 04
@@ -63,8 +62,8 @@ This video simplifies pointers, making them easy to understand. Highly recommend
 
 ## WEEK 05
 
-* [What is Virtual Memory?](https://youtu.be/qlH4-oHnBb8?si=giDjNsrtVig3mVcU)
+* [What is Virtual Memory?](https://youtu.be/qlH4-oHnBb8?si=giDjNsrtVig3mVcU) —
   A beginner-friendly video introduction to virtual memory, simplifying a complex topic.
 
-* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) —
   Detailed explanation of virtual memory, focusing on its use in operating systems.

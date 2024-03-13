@@ -60,3 +60,11 @@ A recording from the previous SOSI class that greatly clarifies this week's lect
 
 * [You Will Never Ask About Pointers Again](https://youtu.be/2ybLD6_2gKM?si=jKWs3WZ6tpwAhOVo) — 
 This video simplifies pointers, making them easy to understand. Highly recommended for a clear understanding.
+
+## WEEK 05
+
+* [What is Virtual Memory?](https://youtu.be/qlH4-oHnBb8?si=giDjNsrtVig3mVcU)
+  A beginner-friendly video introduction to virtual memory, simplifying a complex topic.
+
+* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+  Detailed explanation of virtual memory, focusing on its use in operating systems.

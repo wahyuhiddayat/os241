@@ -63,7 +63,15 @@ This video simplifies pointers, making them easy to understand. Highly recommend
 ## WEEK 05
 
 * [What is Virtual Memory?](https://youtu.be/qlH4-oHnBb8?si=giDjNsrtVig3mVcU) —
-  A beginner-friendly video introduction to virtual memory, simplifying a complex topic.
+A beginner-friendly video introduction to virtual memory, simplifying a complex topic.
 
 * [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) —
-  Detailed explanation of virtual memory, focusing on its use in operating systems.
+Detailed explanation of virtual memory, focusing on its use in operating systems.
+
+## WEEK 06
+
+* [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/) —
+Demystifies the fork system call, key for understanding process creation.
+
+* [Multi Threading Models in Process Management](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/) —
+Breaks down multi-threading models, essential for grasping complex OS concepts.

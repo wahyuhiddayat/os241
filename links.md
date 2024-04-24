@@ -75,3 +75,11 @@ Demystifies the fork system call, key for understanding process creation.
 
 * [Multi Threading Models in Process Management](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/) —
 Breaks down multi-threading models, essential for grasping complex OS concepts.
+
+## WEEK 07
+
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)  ^`^t
+This article provides a foundational understanding of process synchronization, essential for managing concurrent processes in operating systems.
+
+* [Process Synchronisation in Operating System (OS): An Overview](https://www.theknowledgeacademy.com/blog/process-synchronization-in-operating-system/)  ^`^t
+This overview offers insights into process synchronization techniques in operating systems, aiding in the coordination of concurrent processes for efficient execution.

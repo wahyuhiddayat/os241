@@ -83,3 +83,8 @@ This article provides a foundational understanding of process synchronization, e
 
 * [Process Synchronisation in Operating System (OS): An Overview](https://www.theknowledgeacademy.com/blog/process-synchronization-in-operating-system/)  ^`^t
 This overview offers insights into process synchronization techniques in operating systems, aiding in the coordination of concurrent processes for efficient execution.
+
+## WEEK 08
+
+* [LFS 12.1 - How to build Linux From Scratch 12.1](https://youtube.com/playlist?list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX&si=P4Sk2nHiIImsHV4F)  ^`^t
+A playlist that helped me complete LFS chapters 1-5.

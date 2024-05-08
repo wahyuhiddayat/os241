@@ -36,3 +36,7 @@ ZCZC W07 10 L05 Quiz related including studying
 ZCZC W08 300 L18 Assignment #08
 ZCZC W08 10 L05 Quiz related including studying
 ZCZC W08 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 240 L19 Assignment #09
+ZCZC W09 10 L05 Quiz related including studying
+ZCZC W09 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 30 L32 YouTube: watching OS related topics, etc.

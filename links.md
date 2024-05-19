@@ -93,3 +93,6 @@ A playlist that helped me complete LFS chapters 1-5.
 
 * [Symlink Tutorial in Linux – How to Create and Remove a Symbolic Link](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/) —
 This tutorial was helpful when I encountered errors during my Week 09 assignment.
+
+## WEEK 09
+* [Good music to listen to when focusing on coding /studying • 3 hour lofi hip hop chill music](https://youtu.be/HT2rbv_-MOg?si=25eJTO3MyTl1n0xD) - A song that accompanied me while doing my last assignment in OS241.

@@ -13,7 +13,7 @@
 # START: Mon 28 Sep 2020 21:00
 
 # ATTN:
-# You new to set "REC2" with your own Public-Key Identity!
+# You need to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 # ####################### Replace REC2 ####
 REC2="27DDD75A268D107F"
@@ -109,8 +109,7 @@ echo "sha256sum -c $SHA"
 sha256sum -c $SHA
 
 echo "# ################# SIGNING CHECKSUM ######### ######### ########"
-echo "gpg --output $SHA.asc --armor --sign --local-user $REC2 --detach-sign $SHA"
-gpg --output $SHA.asc --armor --sign --local-user $REC2 --detach-sign $SHA
+echo "gpg --batch --passphrase-file ~/.gpg-passphrase --output $SHA.asc --armor --sign --local-user $REC2 --detach-sign $SHA"
 
 echo "# ################# VERIFY ######### ######### ######### ########"
 echo "gpg --verify $SHA.asc $SHA"
@@ -123,4 +122,3 @@ echo "==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ===="
 echo ""
 
 exit 0
-
